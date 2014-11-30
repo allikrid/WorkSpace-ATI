@@ -1,0 +1,32 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading W:\Mes Documents\Workspace\GitHub\WorkSpace-ATI\Unity avec Remy\executables\Marc Michot - Pong_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.299884 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 155.
+Total: 0.777067 ms (FindLiveObjects: 0.013165 ms CreateObjectMapping: 0.011117 ms MarkObjects: 0.114395 ms  DeleteObjects: 0.004973 ms)
+
+UnloadTime: 0.460798 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 115.
+Total: 0.997373 ms (FindLiveObjects: 0.010825 ms CreateObjectMapping: 0.011117 ms MarkObjects: 0.108543 ms  DeleteObjects: 0.295203 ms)
+

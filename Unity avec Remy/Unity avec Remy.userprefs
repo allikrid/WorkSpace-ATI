@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\musique.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PONG\v2_deplacementBalle.cs">
     <Files>
-      <File FileName="Assets\scripts\musique.cs" Line="6" Column="19" />
+      <File FileName="Assets\scripts\PONG\controleJoueur.cs" Line="27" Column="133" />
+      <File FileName="Assets\scripts\PONG\deplacementBalle.cs" Line="57" Column="4" />
+      <File FileName="Assets\scripts\PONG\v2_deplacementBalle.cs" Line="54" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
