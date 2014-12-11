@@ -1,11 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PONG\v2_deplacementBalle.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Dropbox\Projet Unity HistArt\Assets\scripts\ChangementCouleur.cs">
     <Files>
-      <File FileName="Assets\scripts\PONG\deplacementBalle.cs" Line="60" Column="2" />
-      <File FileName="Assets\scripts\PONG\v2_deplacementBalle.cs" Line="20" Column="54" />
-      <File FileName="Assets\scripts\PONG\v2_paramètres.cs" Line="29" Column="5" />
-      <File FileName="Assets\scripts\PONG\v2_controleJoueur.cs" Line="7" Column="29" />
+      <File FileName="..\..\..\Dropbox\Projet Unity HistArt\Assets\scripts\GestionPorte.cs" Line="17" Column="36" />
+      <File FileName="..\..\..\Dropbox\Projet Unity HistArt\Assets\scripts\ChangementCouleur.cs" Line="14" Column="10" />
+      <File FileName="..\..\..\Dropbox\Projet Unity HistArt\Assets\scripts\GestionChaleur.cs" Line="7" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

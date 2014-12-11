@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GestionZoneChaleur.cs">
+    <Files>
+      <File FileName="Assets\scripts\GestionPorte.cs" Line="7" Column="2" />
+      <File FileName="Assets\scripts\ChangementCouleur.cs" Line="14" Column="10" />
+      <File FileName="Assets\scripts\GestionChaleur.cs" Line="19" Column="3" />
+      <File FileName="Assets\scripts\GestionZoneChaleur.cs" Line="20" Column="88" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
